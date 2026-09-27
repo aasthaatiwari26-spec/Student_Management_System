@@ -1,0 +1,19 @@
+{
+  "name": "student-management-system",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Student Management System - Full MERN Stack Application",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node run-dev.js",
+    "build": "npm --prefix \"Student management\" run build",
+    "server": "node backend/server.js",
+    "client": "npm --prefix \"Student management\" run vite",
+    "seed": "node backend/seeder.js",
+    "install:all": "npm install && cd backend && npm install && cd \"../Student management\" && npm install"
+  },
+  "dependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "USER-ADMIN-001",
+    "fullName": "Prof. Anamika Vishwakarma",
+    "email": "admin@college.edu",
+    "phone": "+91 98765 00123",
+    "role": "Admin",
+    "password": "$2b$10$dyhBnBNWrzFYBgRhqz1rSOyq1C.kfpc81183Rvn1u0V9op1LZ7TYi",
+    "createdAt": "2026-09-16T09:00:00.000Z"
+  },
+  {
+    "id": "USER-STU-002",
+    "fullName": "Pooja Sharma",
+    "email": "pooja@college.edu",
+    "phone": "+91 98765 43210",
+    "role": "Student",
+    "password": "$2b$10$dyhBnBNWrzFYBgRhqz1rSOyq1C.kfpc81183Rvn1u0V9op1LZ7TYi",
+    "createdAt": "2026-09-16T09:15:00.000Z"
+  }
+]
